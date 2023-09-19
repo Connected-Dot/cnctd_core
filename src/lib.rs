@@ -3,6 +3,7 @@ pub use cnctd_bump;
 pub use cnctd_cargo;
 pub use cnctd_dialogue;
 pub use cnctd_docker;
+pub use cnctd_git;
 pub use cnctd_go;
 pub use cnctd_npm;
 pub use cnctd_redis;

@@ -10,14 +10,15 @@ repository = "https://github.com/Connected-Dot/cnctd_core"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-cnctd_android_project = { version = "0.1.1", path = "../cnctd_android_project" }
-cnctd_bump = { version = "0.1.3", path = "../cnctd_bump" }
-cnctd_cargo = { version = "0.1.3", path = "../cnctd_cargo" }
-cnctd_dialogue = { version = "0.1.1", path = "../cnctd_dialogue" }
-cnctd_docker = { version = "0.1.1", path = "../cnctd_docker" }
-cnctd_go = { version = "0.1.1", path = "../cnctd_go" }
-cnctd_npm = { version = "0.1.1", path = "../cnctd_npm" }
-cnctd_redis = { version = "0.1.3", path = "../cnctd_redis" }
-cnctd_server_api = { version = "0.1.1", path = "../cnctd_server_api" }
-cnctd_shell = { version = "0.1.3", path = "../cnctd_shell" }
-cnctd_xcode = { version = "0.1.1", path = "../cnctd_xcode" }
+cnctd_android_project = { path = "../cnctd_android_project" }
+cnctd_bump = { path = "../cnctd_bump" }
+cnctd_cargo = { path = "../cnctd_cargo" }
+cnctd_dialogue = { path = "../cnctd_dialogue" }
+cnctd_docker = { path = "../cnctd_docker" }
+cnctd_git = { path = "../cnctd_git"}
+cnctd_go = { path = "../cnctd_go" }
+cnctd_npm = { path = "../cnctd_npm" }
+cnctd_redis = { path = "../cnctd_redis" }
+cnctd_server_api = { path = "../cnctd_server_api" }
+cnctd_shell = { path = "../cnctd_shell" }
+cnctd_xcode = { path = "../cnctd_xcode" }
