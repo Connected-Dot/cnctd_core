@@ -9,4 +9,5 @@ pub use cnctd_npm;
 pub use cnctd_redis;
 pub use cnctd_server_api;
 pub use cnctd_shell;
+pub use cnctd_utils;
 pub use cnctd_xcode;
